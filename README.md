@@ -1,1 +1,3 @@
 # USDJPY_simulator
+
+USDJPYのシミュレーターです
