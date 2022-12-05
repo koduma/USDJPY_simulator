@@ -1,0 +1,1 @@
+# USDJPY_simulator
