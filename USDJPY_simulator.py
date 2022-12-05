@@ -28,7 +28,6 @@ y/=250.0
 
 def predict(S0,S,time):
     r=y[time]
-    print("time="+str(time)+"r="+str(r))
     sigma = 0.00504#day
     T = 1#day
     t = width#hour
